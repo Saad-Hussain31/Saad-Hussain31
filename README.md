@@ -1,9 +1,6 @@
 ### Hi there 👋
 
 
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on classical machine learning algorithms
 - 🌱 I’m currently learning Natural Language Processing
 - 🤔 I’m looking for help with NLP and CV research
