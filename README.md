@@ -1,11 +1,9 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on Object Detection
-- 🌱 I’m currently learning Deep learning for Computer Vision
-- 🤔 I’m looking for collaborative research in Computer vision 
+- 🔭 I’m currently writing an Operating System.
+- 🤔 I’m looking to do collaborative research in Computer Systems(OS, Networking, Distributed Computing)
 - 📫 How to reach me: saadnasir31@gmail.com
 - 😄 Pronouns: He/His
 
 
-coursera github
